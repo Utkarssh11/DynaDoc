@@ -333,7 +333,7 @@ function Home() {
                   height="400px"
                   frameborder="0"
                   allowfullscreen
-                  src="https://dubble.so/guides/workflow-with-DYNAdocnetlifyapp-whebvwhmf7fiezdxzu82?embed=1"
+                  src="#"
                 ></iframe>
               </div>
               <div className="col-md-6 text-center text-md-start">
@@ -364,7 +364,7 @@ function Home() {
               <div className="col-12 col-sm-8 col-md-6">
                 <p className="fs--1 my-2 text-center text-md-end text-200">
                   {" "}
-                  Made with&nbsp;
+                  Made &nbsp;
                   <svg
                     className="bi bi-suit-heart-fill"
                     xmlns="http://www.w3.org/2000/svg"
@@ -392,7 +392,7 @@ function Home() {
                   >
                     {"   "}
                   </a>
-                  &{"  "}
+                  {"  "}
                   <a
                     className="fw-bold text-info"
                     href="#"
