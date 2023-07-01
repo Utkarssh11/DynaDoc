@@ -1,0 +1,68 @@
+.main {
+    margin-top: 1%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.container {
+    flex-basis: auto;
+    width: 40%;
+    padding: 1%;
+    background-color: white;
+    padding: 30px 50px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.inputForm {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    flex-basis: auto;
+    align-items: center;
+    justify-content: center;
+}
+
+.age-sex {
+    display: flex;
+}
+
+.dotted {}
+
+.output {
+    height: 50%;
+    padding: 1%;
+    background-color: white;
+    padding: 30px 50px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.chip-Container {
+    /* border: 2px solid black; */
+    display: flex;
+    max-width: 70%;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.symptom-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.symptom-input-button {
+    display: flex;
+    gap: 10px;
+    flex-basis: auto;
+}
+
+.form-buttons {
+    display: flex;
+    gap: 10px;
+}
