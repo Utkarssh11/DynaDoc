@@ -1311,13 +1311,13 @@ function Home() {
               <div className="row justify-content-md-between justify-content-evenly py-4">
                 <div className="col-12 col-sm-8 col-md-6 col-lg-auto text-center text-md-start">
                   <p className="fs--1 my-2 fw-bold text-200">
-                    All rights Reserved &copy; Your Company, 2021
+                    All rights Reserved &copy; Your Company, 2023
                   </p>
                 </div>
                 <div className="col-12 col-sm-8 col-md-6">
                   <p className="fs--1 my-2 text-center text-md-end text-200">
                     {" "}
-                    Made with&nbsp;
+                    Made &nbsp;
                     <svg
                       className="bi bi-suit-heart-fill"
                       xmlns="http://www.w3.org/2000/svg"
@@ -1331,7 +1331,7 @@ function Home() {
                     &nbsp;by&nbsp;
                     <a
                       className="fw-bold text-info"
-                      href="https://themewagon.com/"
+                      href="#"
                       target="_blank"
                     >
                       ThemeWagon{" "}
